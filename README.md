@@ -1,6 +1,8 @@
 # mit-ocw-cs
 my tour
 
+[MIT Curriculum Guide](https://ocw.mit.edu/courses/mit-curriculum-guide/)
+
 
 ## Roadmap
 
