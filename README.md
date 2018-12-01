@@ -1,4 +1,4 @@
-# mit-ocw-cs
+# [MIT-OCW-EECS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 my tour
 
 [MIT Curriculum Guide](https://ocw.mit.edu/courses/mit-curriculum-guide/)
